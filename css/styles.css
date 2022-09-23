@@ -159,8 +159,9 @@ figure, div.project-img {
   max-width: 960px;
   margin: 48px auto;
 }
-div.client-img{ max-width: 600px;}
-div.clear{float:both;}
+div.client-img{ 
+  max-width: 600px;
+}
 
 .image {
   max-width: 100%;
