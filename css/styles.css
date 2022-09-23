@@ -194,6 +194,9 @@ p.footer-project-title {
   text-align: center;
   margin: 0 auto;
 }
+p.footer-text{color: #161616;
+  font-family: inherit;
+  font-size: 0.875rem;}
 
 @media screen and (max-width: 600px) {
   body {
